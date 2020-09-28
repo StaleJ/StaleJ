@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[Computer Science](https://www.uib.no/en/studies/BAMN-DVIT) @ UNIVERSITY OF BERGEN
 <!--
 **stalejacobsen-uib/stalejacobsen-uib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
